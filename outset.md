@@ -12,3 +12,24 @@
 
 - golang官方给出的建议[Organizing a Go module](https://go.dev/doc/modules/layout)
 - 社区给出的建议[project-layout](https://github.com/golang-standards/project-layout)
+
+# 代码版权
+
+代表版权是很重要的信息，作用是**提醒用户和开发者尊重您的知识产权，并告知他们未经授权使用代码的后果**。 它还可以作为一种法律武器，在必要时为您提供法律保护。 
+
+```go
+// Copyright 2024 The stonebirdjx 
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//      http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+```
+
